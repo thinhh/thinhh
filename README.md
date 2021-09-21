@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @thinhh
 - 👀 I’m interested in sports, games and coding
-- 🌱 I’m currently learning HTML, CSS, Javascript and React
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning HTML, CSS, Javascript and React 
 - 📫 How to reach me thinh.huyn@sjsu.edu or thinhhuynh942000@gmail.com or thinh_trang942000@yahoo.com
 
 <!---
